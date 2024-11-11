@@ -1,0 +1,12 @@
+{
+  "name": "si-pass-exempel",
+  "version": "1.0.0",
+  "description": "Simple SI project with form input and greeting page",
+  "main": "greeting-form/index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
